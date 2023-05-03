@@ -13,8 +13,8 @@ const defaultState = {
                 { "soGhe": "A8", "gia": 75000, "daDat": false },
                 { "soGhe": "A9", "gia": 75000, "daDat": false },
                 { "soGhe": "A10", "gia": 75000, "daDat": false },
-                { "soGhe": "A11", "gia": 0, "daDat": true },
-                { "soGhe": "A12", "gia": 0, "daDat": true }
+                { "soGhe": "A11", "gia": 75000, "daDat": false },
+                { "soGhe": "A12", "gia": 75000, "daDat": false }
             ]
         },
         {
@@ -26,12 +26,12 @@ const defaultState = {
                 { "soGhe": "B4", "gia": 75000, "daDat": false },
                 { "soGhe": "B5", "gia": 75000, "daDat": false },
                 { "soGhe": "B6", "gia": 75000, "daDat": false },
-                { "soGhe": "B7", "gia": 75000, "daDat": false },
+                { "soGhe": "B7", "gia": 75000, "daDat": true },
                 { "soGhe": "B8", "gia": 75000, "daDat": false },
                 { "soGhe": "B9", "gia": 75000, "daDat": false },
                 { "soGhe": "B10", "gia": 75000, "daDat": false },
                 { "soGhe": "B11", "gia": 75000, "daDat": false },
-                { "soGhe": "B12", "gia": 75000, "daDat": false }
+                { "soGhe": "B12", "gia": 75000, "daDat": true }
             ]
         },
         {
@@ -42,7 +42,7 @@ const defaultState = {
                 { "soGhe": "C3", "gia": 75000, "daDat": false },
                 { "soGhe": "C4", "gia": 75000, "daDat": false },
                 { "soGhe": "C5", "gia": 75000, "daDat": false },
-                { "soGhe": "C6", "gia": 75000, "daDat": false },
+                { "soGhe": "C6", "gia": 75000, "daDat": true },
                 { "soGhe": "C7", "gia": 75000, "daDat": false },
                 { "soGhe": "C8", "gia": 75000, "daDat": false },
                 { "soGhe": "C9", "gia": 75000, "daDat": false },
@@ -56,7 +56,7 @@ const defaultState = {
                 { "soGhe": "D1", "gia": 75000, "daDat": false },
                 { "soGhe": "D2", "gia": 75000, "daDat": false },
                 { "soGhe": "D3", "gia": 75000, "daDat": false },
-                { "soGhe": "D4", "gia": 75000, "daDat": false },
+                { "soGhe": "D4", "gia": 75000, "daDat": true },
                 { "soGhe": "D5", "gia": 75000, "daDat": false },
                 { "soGhe": "D6", "gia": 75000, "daDat": false },
                 { "soGhe": "D7", "gia": 75000, "daDat": false },
